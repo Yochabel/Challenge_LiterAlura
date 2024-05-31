@@ -11,15 +11,15 @@ Este proyecto es una aplicación de gestión de libros desarrollada con Java y S
 - Maven 3.6.0 o superior
 
 ## Estructura del Proyecto
-src/main/java/com/aluracursos/Challenge_LiterAlura/
-controller/: Controladores de la aplicación.
-dto/: Data Transfer Objects.
-model/: Clases de modelo.
-repository/: Repositorios de datos.
-service/: Servicios de lógica de negocio.
-principal/: Clase principal de la aplicación.
-src/main/resources/: Archivos de recursos y configuración.
-src/test/java/com/aluracursos/Challenge_LiterAlura/: Pruebas unitarias.
+1. src/main/java/com/aluracursos/Challenge_LiterAlura/
+2. controller/: Controladores de la aplicación.
+3. dto/: Data Transfer Objects.
+4. model/: Clases de modelo.
+5. repository/: Repositorios de datos.
+6. service/: Servicios de lógica de negocio.
+7. principal/: Clase principal de la aplicación.
+8. src/main/resources/: Archivos de recursos y configuración.
+9. src/test/java/com/aluracursos/Challenge_LiterAlura/: Pruebas unitarias.
 
 ## Configuración
 El archivo de configuración principal se encuentra en src/main/resources/application.properties. Aquí puedes configurar parámetros como la conexión a la base de datos.
